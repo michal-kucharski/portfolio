@@ -1,12 +1,19 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
+    <nav></nav>
+    <CV></CV>
+    
   </div>
 </template>
+
+<script>
+  import CV from '@/components/CV.vue'
+  export default {
+    components: {
+      CV
+    }
+  }
+</script>  
 
 <style>
 #app {
