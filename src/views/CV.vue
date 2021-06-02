@@ -1,5 +1,5 @@
 <template>
-  <div id="CV" class="lg:w-1/5 min-h-screen flex flex-col items-center justify-center bg-black text-green-500">
+  <div id="CV" class="lg:w-1/5 min-h-screen flex flex-col items-center justify-center bg-black text-green-500 text-center">
       <img src="../assets/profile-pic.jpg" class="w-1/2 rounded-full self-center" alt="">
       <h2 class="p-1 py-4 uppercase text-xl">Michał Kucharski</h2>
       <p class="p-1">FrontEnd Developer</p>
@@ -7,7 +7,7 @@
       <p class="p-1">e-mail: michal.kucharski@mikusoft.eu</p>
       <h2 class="p-1 py-4 uppercase text-xl">Doświadczenie zawodowe</h2>
       <p class="p-1">Creobit 12.2018 - obecnie</p>
-      <p class="p-1 px-4 text-center">Tworzenie stron dla marki Apart. Praca głównie z HTML, CSS, JavaScript i Laravel. Wdrażanie zewnętrznych bibliotek (np. swiper.js, mmenu.js) i pisanie własnych skryptów. Regularnie pracuję z repozytorium git, używając narzędzia Sourcetree.</p>
+      <p class="p-1 px-4">Tworzenie stron dla marki Apart. Praca głównie z HTML, CSS, JavaScript i Laravel. Wdrażanie zewnętrznych bibliotek (np. swiper.js, mmenu.js) i pisanie własnych skryptów. Regularnie pracuję z repozytorium git, używając narzędzia Sourcetree.</p>
       <h2 class="p-1 py-4 uppercase text-xl">Linki zewnętrzne</h2>
       <div class="social-links flex justify-center p-1">
         <a href="https://www.linkedin.com/in/michal-kucharski/">
