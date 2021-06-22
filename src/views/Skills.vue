@@ -184,6 +184,8 @@ export default {
             modalImg.setAttribute("alt", $event.target.id);
         },
 
+        // This is vanilla JavaScript version of functionality:
+
         // toggleModal(e) {
         //     const modal = document.querySelector("#modal");
         //     const modalImg = document.querySelector("#modalImg");
