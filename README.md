@@ -1,6 +1,6 @@
 # portfolio
 
-This is my portfolio page created with Vue.js with TS and Jest.
+This is my portfolio page created with Vue.js and Tailwind.css. I am also trying to use TypeScript and Jest but have to learn it first. Propably would add those later. 
 
 ## Project setup
 
